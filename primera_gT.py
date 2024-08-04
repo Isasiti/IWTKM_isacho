@@ -1,4 +1,5 @@
-def primera_AC():
-    print(input("Ingrese su Nombre"))
-    print(input:int("ingrese su edad"))
+nombre = input("Ingrese su Nombre: ")
+edad = int(input("Ingrese su edad: "))
+print(f"Su nombre es {nombre} y su edad es {edad}")
+
     
